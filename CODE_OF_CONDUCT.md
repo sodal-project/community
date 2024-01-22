@@ -1,4 +1,4 @@
-# Web3 Risk Management (Web3RM) Community Code of Conduct
+# Sodal Community Code of Conduct
 
 We believe that our mission is best served in an environment that is friendly,
 safe, and accepting; free from intimidation or harassment.
@@ -8,9 +8,9 @@ Towards this end, certain behaviors and practices will not be tolerated.
 ## tl;dr
 
 - Be respectful.
-- We're here to help: web3rm@protocol.ai
+- We're here to help: hello@sodal.io
 - Abusive behavior is never tolerated.
-- Violations of this code may result in swift and permanent expulsion from the Web3RM community.
+- Violations of this code may result in swift and permanent expulsion from the community.
 - "Too long, didn't read" is not a valid excuse for not knowing what is in this document.
 
 ## Table of Contents
@@ -30,19 +30,19 @@ Towards this end, certain behaviors and practices will not be tolerated.
 
 We expect all members of the community to abide by this Code of Conduct
 at all times in all community venues, online and in person, and in one-on-one
-communications pertaining to Web3RM affairs.
+communications pertaining to Sodal affairs.
 
-This policy covers the usage of Web3RM public infrastructure, as well as other Web3RM websites, Web3RM related events,
-and any other services offered by or on behalf of the Web3RM community. It also
-applies to behavior in the context of the Web3 Risk Management Open Source projects
-communities, including but not limited to public GitHub repositories, IRC
+This policy covers the usage of Sodal public infrastructure, as well as other Sodal websites, Sodal related events,
+and any other services offered by or on behalf of the Sodal community. It also
+applies to behavior in the context of the Sodal Open Source projects
+communities, including but not limited to public GitHub repositories, chat
 channels, social media, mailing lists, and public events.
 
 This Code of Conduct is in addition to, and does not in any way nullify or
-invalidate, any other terms or conditions related to use of Web3RM services.
+invalidate, any other terms or conditions related to use of Sodal services.
 
 The definitions of various subjective terms such as "discriminatory",
-"hateful", or "confusing" will be decided at the sole discretion of the Web3RM
+"hateful", or "confusing" will be decided at the sole discretion of the Sodal
 abuse team.
 
 ## Friendly Harassment-Free Space
@@ -74,9 +74,9 @@ physical harm; deliberate intimidation, stalking or following; harassing
 photography or recording; sustained disruption of talks or other events;
 inappropriate physical contact; and unwelcome sexual attention.
 
-Media shared through public infrastructure run by the Web3RM team must not
+Media shared through public infrastructure run by the Sodal team must not
 contain illegal or infringing content. You should only publish content via
-Web3RM public infrastructure if you have the right to do so. This includes
+Sodal public infrastructure if you have the right to do so. This includes
 complying with all software license agreements or other intellectual property
 restrictions. You will be solely responsible for any violation of laws or
 others’ intellectual property rights.
@@ -90,43 +90,43 @@ or any kind of spam. Selling commercial services or fundraising is not allowed.
 ## Reporting Violations of this Code of Conduct
 
 If you believe someone is harassing you or has otherwise violated this Code of
-Conduct, please contact us at web3rm@protocol.ai to send us an abuse report. If
+Conduct, please contact us at hello@sodal.io to send us an abuse report. If
 this is the initial report of a problem, please include as much detail as
 possible. It is easiest for us to address issues when we have more context.
 
 ## Copyright Violations
 
 We respect the intellectual property of others and ask that you do too. If you
-believe any content or other materials available through public Web3RM
+believe any content or other materials available through public Sodal
 infrastructure violates a copyright held by you and you would like to submit a
 notice pursuant to the Digital Millennium Copyright Act or other similar
 international law, you can submit a notice to our agent for service of notice
-to: web3rm@protocol.ai
+to: dmca@sodal.io
 
 Please make sure your notice meets the Digital Millennium Copyright Act
 requirements.
 
 ## Consequences
 
-All content published to public Web3RM infrastructure is hosted at the sole
-discretion of the Web3RM team.
+All content published to public Sodal infrastructure is hosted at the sole
+discretion of the Sodal team.
 
 Unacceptable behavior from any community member will not be tolerated.
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
-If a community member engages in unacceptable behavior, the Web3RM team
+If a community member engages in unacceptable behavior, the Sodal team
 may take any action they deem appropriate, up to and including a temporary ban
 or permanent expulsion from the community without warning (and without refund
 in the case of a paid event or service).
 
 ## Addressing Grievances
 
-Please contact web3rm@protocol.ai if you need to report a problem or address a
+Please contact hello@sodal.io if you need to report a problem or address a
 grievance related to an abuse report.
 
 If you feel you have been falsely or unfairly accused of violating this Code
-of Conduct, you should contact web3rm@protocol.ai. We will do our best to ensure
+of Conduct, you should contact hello@sodal.io. We will do our best to ensure
 that your grievance is handled appropriately.
 
 In general, we will choose the course of action that we judge as being most in
@@ -134,7 +134,7 @@ the interest of fostering a safe and friendly community.
 
 ## Contact Info
 
-Please contact web3rm@protocol.ai if you need to report a problem or address a
+Please contact hello@sodal.io if you need to report a problem or address a
 grievance related to an abuse report.
 
 You are also encouraged to contact us if you are curious about something that
