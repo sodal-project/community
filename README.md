@@ -32,7 +32,7 @@ Please check for per-repo contributing guides, titled `CONTRIBUTING.md`.
 Maintainers are responsible for maintaining the content of this repo, create an issue and tag one of the maintainers if you have any questions.
 
 Current maintainers are:
-@andyschwab ([andrew.schwab@protocol.ai](andy@sodal.io))
+@andyschwab ([andy@sodal.io](andy@sodal.io))
 
 ## License
 
