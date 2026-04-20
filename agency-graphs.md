@@ -64,9 +64,12 @@ Participants generate this graph to understand what resources they control, what
 
 ```mermaid
 flowchart LR
-    IB[Influenced By] --> ID[Identifier]
-    ID --> IN[Influences]
-    ID --> RS[Resources]
+    subgraph IDRS[Identifier]
+        RS[Resources]
+    end
+    IB[Influenced By] --> IDRS
+    IDRS --> IN[Influences]
+
 ```
 
 **A persona graph — personas linked by influence:**
@@ -297,8 +300,6 @@ This approach has resilience properties that are inaccessible to strict Zero Tru
 - *Employee & User Trust*: the same technologies that enable ubiquitous centralized control in support of Zero Trust frequently require that employees and users place complete and exhaustive trust in the centralized institution. This is disingenuous, as the risk profile that best protects the organization's board will frequently be at odds with the risk profile that users, employees, or customers consider acceptable.
 
 A certainty-based agency graph approach turns increased community scale into increased resilience by enabling every participant to act as an independent, incentivized threat management node.
-
-> [TODO] — enabling formal frameworks for real risk mitigation in open communities
 
 ### Open Source Supply Chain Verification
 
