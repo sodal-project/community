@@ -153,11 +153,11 @@ Participants can increase certainty in a variety of ways, including increasing a
 
 | Title | Declaration | Attestation | Verification | Certainty |
 |---|:---:|:---:|:---:|---|
-| Sender from domain with failed DMARC | ❌ | | | strong negative signal |
+| Sender from domain with failed DMARC | - | | | strong negative signal |
 | Sender from domain with no DMARC | | | | weak negative signal |
-| Sender from domain with compliant DMARC | ✅ | | | weak positive signal |
-| DMARC compliant sender from known addresses list | ✅ | ✅ | | strong positive signal |
-| DMARC compliant, known sender with GPG key | ✅ | ✅ | ✅ | very strong positive signal |
+| Sender from domain with compliant DMARC | + | | | weak positive signal |
+| DMARC compliant sender from known addresses list | + | + | | strong positive signal |
+| DMARC compliant, known sender with GPG key | + | + | + | very strong positive signal |
 
 In general, social personas will have inherently lower fidelity than system personas. System personas are declared by the instantiating platform (the personas' *source of being*). Canonical system persona declarations will have the same level of integrity as the platform. Social personas, however, must be asserted by graph operators, users, or external data sets (such as an HR database) and are subject to data staleness, inconsistency, interpretation, and error. Social persona fidelity is improved through third party attestations, cryptographic verifications, and other quantitative and qualitative mechanisms.
 
