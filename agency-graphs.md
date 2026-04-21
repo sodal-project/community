@@ -1,6 +1,11 @@
-# Agency Graphs
+# Agency Graphs: A Design Framework for Composite Identity and Probabilistic Trust
+Andy Schwab, Sodal, Inc. (2024–2026)
 
 *A design paper on composite identity, probabilistic trust, and the relationships that let communities act together.*
+
+## Abstract
+
+Identity and access management in complex, interconnected environments is frequently approached through atomic identifiers, binary authorization, and centrally assigned roles. These approaches inherit structural limits: they concentrate trust in single points of failure, encode the biases of whoever assigns roles, and fracture when applied across platforms that no single authority controls. This paper proposes a different framing. Identity is a composite quality that emerges from identifiers, capabilities, actions, and relationships. Trust is a probabilistic property rather than a binary one. Roles are emergent features of how people and systems actually relate, not prescriptions handed down from a directory. Agency - the capacity to act, or to act through another - cascades across these relationships. The paper introduces _agency graphs_: queryable, probabilistic graphs of agency assembled from the systems participants already use. It develops the supporting vocabulary (personas, controllers, authorization minimums, Universal Persona Names), surveys ten applied domains ranging from collaborative access management to AI integration to Zero Trust resilience, and closes with a candid account of what was built and what remains open.
 
 ---
 
