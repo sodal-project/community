@@ -33,7 +33,7 @@ Communities are built on trust. The challenge in building trust is that we canno
 
 Humans have been wrestling with this challenge for a long time. To explain the principles at work, this paper uses the historical experiences of a wartime resistance network in occupied Europe as a concrete anchor. It had no org chart, no central directory, no way to definitively prove who anyone was. It was infiltrated repeatedly. Its members paid real costs. Yet it endured because it relied on properties this document works to formalize: composite identity, implicit roles, dynamic agency, probabilistic trust.
 
-The objective is faster, better decision making by clarifying and then reducing uncertainty, allowing participants can focus on the trust decisions only humans can make. The framework does this by programmatically generating clarity about the following:
+The objective is faster, better decision making by clarifying and then reducing uncertainty, allowing participants to focus on the trust decisions only humans can make. The framework does this by programmatically generating clarity about the following:
 
 1. **Identifiers**: how we refer to the agents we interact with
 2. **Assertions**: what we know about the agents we interact with
