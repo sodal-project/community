@@ -1,7 +1,8 @@
 # Agency Graphs: Utility, Limits, and Open Work
+
 Andy Schwab, Sodal, Inc. (2024-2026)
 
-*Companion note to `agency-graphs-paper.md`.*
+*Companion note to `agency-graphs-preprint.md`.*
 
 This note situates the paper against adjacent work, describes what the framework has been useful for in practice, and identifies where the most interesting open questions sit
 
